@@ -1,6 +1,6 @@
 ![Wang Ge's github stats](https://github-readme-stats.vercel.app/api?username=nc-animation&theme=dark&show_icons=true)
 
-## 王戈wg是谁
+## 王戈wg是谁？
 Ta是一名高中生，喜欢绘画和玩游戏。
 
 Ta的虚拟形象诞生于2020年11月7日，是一个由宠物狗转生的女孩子<s>（实际上是男生）</s>。
