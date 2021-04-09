@@ -9,6 +9,8 @@ Ta的虚拟形象诞生于2020年11月7日，是一个由宠物狗转生的女�
 
 偶尔也会犯小迷糊，让人哭笑不得，但Ta的愿望是想为大家创造更多的快乐。
 
+如果你感到孤独，可以进入[戈戈圈论坛](https://github.com/gege-circle/home)与大家一起交流哦！
+
 ## Who is Wang Ge?
 Wang Ge is a high school student, he likes drawing and playing games.
 
@@ -17,6 +19,8 @@ His avatar of this person, born on November 7, 2020, is a girl <s>(actually a bo
 Due to the rapid development of China's science and technology and the influence of the Internet, he is very isolated in three dimensions, but lively in two dimensions.
 
 Occasionally, he will make a little confused and make people laugh and cry, but his wish is t  create more happiness for everyone.
+
+If you feel lonely, you can go to [Gege Circle forum](https://github.com/gege-circle/home) communicate with you!
 
 ## 誰が王戈wgですか?
 王戈wgとは、中国の高校生です、絵やゲームが好きです。戈戈圈の主要人物。
@@ -28,3 +32,5 @@ Occasionally, he will make a little confused and make people laugh and cry, but 
 たまに小さなぼんやりするになったり、泣いたり笑ったりしますが、彼の願いは皆さんのためにもっと多くの楽しみを作りたいです。
 
 **（[ピクシブ百科事典](https://dic.pixiv.net/a/王戈wg)）**
+
+孤独を感じたら、[戈戈圈揭示板](https://github.com/gege-circle/home)に入ってみんなと交流しましょう！
