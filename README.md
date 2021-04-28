@@ -1,8 +1,7 @@
 ![Wang Ge's github stats](https://github-readme-stats.vercel.app/api?username=nc-animation&theme=dark&show_icons=true)
-<p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme"></a>
-  <img src="https://weather-icon.journeyad.repl.co/@sanya?v=1" align="right">
-</p>
+
+![Moe-counter](https://count.getloli.com/get/@nc-animation)
+<img src="https://weather-icon.journeyad.repl.co/@sanya?v=1" align="right">
 
 ## 王戈wg是谁？
 Ta是一名高中生，喜欢绘画和玩游戏。
