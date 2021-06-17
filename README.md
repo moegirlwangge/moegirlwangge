@@ -12,3 +12,16 @@ Due to the rapid development of China's science and technology and the influence
 Occasionally, he will make a little confused and make people laugh and cry, but his wish is t  create more happiness for everyone.
 
 If you feel lonely, you can go to [Gege Circle forum](https://github.com/gege-circle/home) communicate with you!
+
+## Other website
+▶[bilibili](https://space.bilibili.com/291584196)
+
+▶[AcFun](https://www.acfun.cn/u/14666581)
+
+▶[Weibo](https://weibo.com/moegirlwangge)
+
+▶[YouTube](https://www.youtube.com/channel/UCoOR_eK6ZXKRtHw7r0IyEeQ)
+
+▶[Twitter](https://twitter.com/nc_animation258)
+
+▶[pixiv](https://pixiv.net/users/43214741)
