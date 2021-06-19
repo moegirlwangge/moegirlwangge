@@ -14,14 +14,14 @@ Occasionally, he will make a little confused and make people laugh and cry, but 
 If you feel lonely, you can go to [Gege Circle forum](https://github.com/gege-circle/home) communicate with you!
 
 ## Other website
-▶[bilibili](https://space.bilibili.com/291584196)
+![bilibili](https://user-images.githubusercontent.com/69033087/122642456-0d394780-d13d-11eb-9ca0-a2d52f9f31d5.png)[bilibili](https://space.bilibili.com/291584196)
 
-▶[AcFun](https://www.acfun.cn/u/14666581)
+![acfun](https://user-images.githubusercontent.com/69033087/122642478-20e4ae00-d13d-11eb-9b75-804ca8fc7c8c.png)[AcFun](https://www.acfun.cn/u/14666581)
 
-▶[Weibo](https://weibo.com/moegirlwangge)
+![weibo](https://user-images.githubusercontent.com/69033087/122642485-33f77e00-d13d-11eb-9623-ba25d30c0fce.png)[Weibo](https://weibo.com/moegirlwangge)
 
-▶[YouTube](https://www.youtube.com/channel/UCoOR_eK6ZXKRtHw7r0IyEeQ)
+![youtube](https://user-images.githubusercontent.com/69033087/122642494-3eb21300-d13d-11eb-9240-c27cade37bc1.png)[YouTube](https://www.youtube.com/channel/UCoOR_eK6ZXKRtHw7r0IyEeQ)
 
-▶[Twitter](https://twitter.com/nc_animation258)
+![twitter](https://user-images.githubusercontent.com/69033087/122642506-51c4e300-d13d-11eb-9185-2af1a462063a.png)[Twitter](https://twitter.com/nc_animation258)
 
-▶[pixiv](https://pixiv.net/users/43214741)
+![pixiv](https://user-images.githubusercontent.com/69033087/122642514-5b4e4b00-d13d-11eb-8f1a-d46199e8110d.png)[pixiv](https://pixiv.net/users/43214741)
