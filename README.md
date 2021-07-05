@@ -2,6 +2,9 @@
 <img src="https://weather-icon.journeyad.repl.co/@sanya?v=1" align="right">
 ![Moe-counter](https://count.getloli.com/get/@nc-animation)
 
+<img src="https://user-images.githubusercontent.com/69033087/124500155-d5dfc180-ddf1-11eb-8d08-9fd04973b197.png" width="360" />
+<img src="https://user-images.githubusercontent.com/69033087/124500749-e5133f00-ddf2-11eb-897e-6597b9ecffca.jpg" width="360" />
+
 ## Description
 Wang Ge is a high school student, he likes drawing and playing games.
 
@@ -12,10 +15,6 @@ Due to the rapid development of China's science and technology and the influence
 Occasionally, he will make a little confused and make people laugh and cry, but his wish is t  create more happiness for everyone.
 
 If you feel lonely, you can go to [Gege Circle forum](https://github.com/gege-circle/home) communicate with you!
-
-## Where I live
-<img src="https://user-images.githubusercontent.com/69033087/124500155-d5dfc180-ddf1-11eb-8d08-9fd04973b197.png" width="360" />
-<img src="https://user-images.githubusercontent.com/69033087/124500257-04f63300-ddf2-11eb-9cc5-3aca7b4c7441.png" width="360" />
 
 ## Other website
 ![bilibili](https://user-images.githubusercontent.com/69033087/122642456-0d394780-d13d-11eb-9ca0-a2d52f9f31d5.png)[bilibili](https://space.bilibili.com/291584196)
