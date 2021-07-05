@@ -2,7 +2,7 @@
 <img src="https://weather-icon.journeyad.repl.co/@sanya?v=1" align="right">
 ![Moe-counter](https://count.getloli.com/get/@nc-animation)
 
-<img src="https://user-images.githubusercontent.com/69033087/124500155-d5dfc180-ddf1-11eb-8d08-9fd04973b197.png" width="360" /><img src="https://user-images.githubusercontent.com/69033087/124500749-e5133f00-ddf2-11eb-897e-6597b9ecffca.jpg" width="300" />
+<img src="https://user-images.githubusercontent.com/69033087/124500155-d5dfc180-ddf1-11eb-8d08-9fd04973b197.png" width="180" /><img src="https://user-images.githubusercontent.com/69033087/124500749-e5133f00-ddf2-11eb-897e-6597b9ecffca.jpg" width="150" />
 
 ## Description
 Wang Ge is a high school student, he likes drawing and playing games.
