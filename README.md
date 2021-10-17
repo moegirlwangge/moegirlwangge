@@ -13,7 +13,7 @@ Due to the rapid development of China's science and technology and the influence
 
 Occasionally, he will make a little confused and make people laugh and cry, but his wish is t  create more happiness for everyone.
 
-If you feel lonely, you can go to [Gege Circle forum](https://github.com/gege-circle/home) communicate with you!
+If you feel lonely, you can go to [Gege Circle](https://github.com/gege-circle/home) communicate with you!
 
 ## Other website
 ![bilibili](https://user-images.githubusercontent.com/69033087/122642456-0d394780-d13d-11eb-9ca0-a2d52f9f31d5.png)[bilibili](https://space.bilibili.com/291584196)
