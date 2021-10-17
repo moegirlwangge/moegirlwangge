@@ -2,7 +2,7 @@
 <img src="https://weather-icon.journeyad.repl.co/@sanya?v=1" align="right">
 ![Moe-counter](https://count.getloli.com/get/@nc-animation)
 
-_**English**・[中文](https://zh.moegirl.org.cn/User:末苦娘)・[日本語](https://dic.pixiv.net/a/王戈wg)・[한국어](https://www.baidu.com)_
+_**English**・[中文](https://zh.moegirl.org.cn/User:末苦娘)・[日本語](https://dic.pixiv.net/a/王戈wg)・[한국어](http://warning.or.kr)_
 
 ## Description
 Wang Ge is a high school student, he likes drawing and playing games.
