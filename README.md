@@ -2,7 +2,7 @@
 <img src="https://weather-icon.journeyad.repl.co/@sanya?v=1" align="right">
 ![Moe-counter](https://count.getloli.com/get/@nc-animation)
 
-_**English**・[中文](https://zh.moegirl.org.cn/User:末苦娘)・[日本語](https://dic.pixiv.net/a/王戈wg)・[한국어](http://warning.or.kr)_
+_**English**・[中文](https://zh.moegirl.org.cn/User:末苦娘)・[日本語](https://dic.pixiv.net/a/王戈wg)_
 
 ## Description
 Wang Ge is a high school student, he likes drawing and playing games.
@@ -13,7 +13,7 @@ Due to the rapid development of China's science and technology and the influence
 
 Occasionally, he will make a little confused and make people laugh and cry, but his wish is t  create more happiness for everyone.
 
-If you feel lonely, you can go to [Gege Circle](https://github.com/gege-circle/home) communicate with you!
+If you feel lonely, you can go to [Gege Circle](https://github.com/gege-circle/home) with you!
 
 ## Other website
 ![bilibili](https://user-images.githubusercontent.com/69033087/122642456-0d394780-d13d-11eb-9ca0-a2d52f9f31d5.png)[bilibili](https://space.bilibili.com/291584196)
@@ -22,7 +22,7 @@ If you feel lonely, you can go to [Gege Circle](https://github.com/gege-circle/h
 
 ![weibo](https://user-images.githubusercontent.com/69033087/122642485-33f77e00-d13d-11eb-9623-ba25d30c0fce.png)[Weibo](https://weibo.com/moegirlwangge)
 
-![youtube](https://user-images.githubusercontent.com/69033087/122642494-3eb21300-d13d-11eb-9240-c27cade37bc1.png)[YouTube](https://www.youtube.com/channel/UCoOR_eK6ZXKRtHw7r0IyEeQ)
+![youtube](https://user-images.githubusercontent.com/69033087/122642494-3eb21300-d13d-11eb-9240-c27cade37bc1.png)[YouTube](https://www.youtube.com/c/moegirlwangge)
 
 ![twitter](https://user-images.githubusercontent.com/69033087/122642506-51c4e300-d13d-11eb-9185-2af1a462063a.png)[Twitter](https://twitter.com/nc_animation258)
 
