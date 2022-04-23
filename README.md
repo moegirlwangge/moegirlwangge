@@ -1,31 +1,3 @@
 ![Wang Ge's github stats](https://github-readme-stats.vercel.app/api?username=moegirlwangge&theme=dark&show_icons=true)
 <img src="https://weather-icon.journeyad.repl.co/@sanya?v=1" align="right">
 ![Moe-counter](https://count.getloli.com/get/@nc-animation)
-
-_**English**・[中文](https://zh.moegirl.org.cn/User:末苦娘)・[日本語](https://dic.pixiv.net/a/王戈wg)_
-
-## Description
-Wang Ge is a high school student, he likes drawing and playing games.
-
-His avatar of this person, born on November 7, 2020, is a girl <s>(actually a boy)</s> born from a pet dog.
-
-Due to the rapid development of China's science and technology and the influence of the Internet, he is very isolated in three dimensions, but lively in two dimensions.
-
-Occasionally, he will make a little confused and make people laugh and cry, but his wish is t  create more happiness for everyone.
-
-If you feel lonely, you can go to [Gege Circle](https://github.com/gege-circle/home) with you!
-
-## Other website
-![bilibili](https://user-images.githubusercontent.com/69033087/122642456-0d394780-d13d-11eb-9ca0-a2d52f9f31d5.png)[bilibili](https://space.bilibili.com/291584196)
-
-![acfun](https://user-images.githubusercontent.com/69033087/122642478-20e4ae00-d13d-11eb-9b75-804ca8fc7c8c.png)[AcFun](https://www.acfun.cn/u/14666581)
-
-![weibo](https://user-images.githubusercontent.com/69033087/122642485-33f77e00-d13d-11eb-9623-ba25d30c0fce.png)[Weibo](https://weibo.com/moegirlwangge)
-
-![youtube](https://user-images.githubusercontent.com/69033087/122642494-3eb21300-d13d-11eb-9240-c27cade37bc1.png)[YouTube](https://www.youtube.com/c/moegirlwangge)
-
-![twitter](https://user-images.githubusercontent.com/69033087/122642506-51c4e300-d13d-11eb-9185-2af1a462063a.png)[Twitter](https://twitter.com/nc_animation258)
-
-![pixiv](https://user-images.githubusercontent.com/69033087/122642514-5b4e4b00-d13d-11eb-8f1a-d46199e8110d.png)[pixiv](https://pixiv.net/users/43214741)
-
-![AO3](https://user-images.githubusercontent.com/69033087/125888373-d416fa3e-2f93-4085-8df8-a1908f0f57ba.png)[AO3](https://archiveofourown.org/users/nc_animation)
