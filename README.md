@@ -1,6 +1,7 @@
-![Wang Ge's github stats](https://github-readme-stats.vercel.app/api?username=moegirlwangge&theme=dark&show_icons=true)
-<img src="https://weather-icon.journeyad.repl.co/@sanya?v=1" align="right">
+![GitHub status](https://github-readme-stats.vercel.app/api?username=moegirlwangge&show_icons=true&hide_border=true&theme=radical)
+
 ![Moe-counter](https://count.getloli.com/get/@moegirlwangge)
+<img src="https://weather-icon.journeyad.repl.co/@sanya?v=1">
 
 戈戈圈所属成员，喜欢画画的小椰狗，爱好动漫和游戏，想认识更多的朋友，希望能给大家创造更多的快乐，请多关照(σ≧︎▽︎≦︎)σ！<br>
 <br>
