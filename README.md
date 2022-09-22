@@ -13,4 +13,6 @@ Gege Circle coconut dog, drawing artist, likes anime & gaming, wants to know mor
 `▶`AcFun：https://www.acfun.cn/u/14666581 <br>
 `▶`pixiv：https://pixiv.net/users/43214741 <br>
 `▶`YouTube：https://www.youtube.com/c/moegirlwangge <br>
-`▶`Niconico：https://www.nicovideo.jp/user/84370201
+`▶`Niconico：https://www.nicovideo.jp/user/84370201 <br>
+`▶`Twitter：https://twitter.com/moegirlwangge <br>
+`▶`Reddit：https://reddit.com/moegirlwangge 
