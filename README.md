@@ -9,6 +9,8 @@ Gege Circle coconut dog, drawing artist, likes anime & gaming, wants to know mor
 <br>
 戈戈圏所属、絵を描くのが好きなヤシ犬ちゃん、アニメやゲームが大好き、もっと多くの友達を知りたい、みんなにもっと楽しいことを作ってあげたい、よろしくお願いします(σ≧︎▽≦︎σ)！<br>
 <br>
+社交账号(Social account)：<br>
+`▶`GitHub：https://github.com/moegirlwangge <br>
 `▶`B站(bilibili)：https://space.bilibili.com/291584196 <br>
 `▶`A站(AcFun)：https://www.acfun.cn/u/14666581 <br>
 `▶`P站(pixiv)：https://pixiv.net/users/43214741 <br>
