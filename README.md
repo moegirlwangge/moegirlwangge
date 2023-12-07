@@ -5,10 +5,6 @@
 <br>
 Gege Circle coconut dog, drawing artist, likes anime & gaming, wants to know more friends, and hopes to create more happiness for everyone, please take care (σ≧︎▽︎≦︎)σ!<br>
 <br>
-【Genshin Impact】UID: 194166447 (CN) / UID: 840748246 (Asia) <br>
-【Arknights】UID: 46703980 (CN) <br>
-【Honkai: Star Rail】UID: 107156026 (CN) / UID: 809163863 (Asia) <br>
-<br>
 ![Bilibili](https://user-images.githubusercontent.com/69033087/215234424-960c7e90-90ec-483f-9162-153bb2091024.png)
 [Bilibili](https://space.bilibili.com/291584196)
 <br>
